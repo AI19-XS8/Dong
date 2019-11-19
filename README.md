@@ -1,6 +1,4 @@
 # Dong
-董冀峥
-
 
 ## 拉普拉斯变换  
 control.py  
