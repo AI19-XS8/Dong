@@ -26,6 +26,9 @@ experiment.py
 2. 二
 
 
+$$
+x_{1},\dots,x_{n}
+$$
 
 
 
