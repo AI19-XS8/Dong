@@ -3,6 +3,33 @@
 
 
 
+
+
+
+
+[如何用Keras从头开始训练一个在CIFAR10上准确率达到89%的模型](https://github.com/mtyylx/MLND/blob/master/P5_Image_Classification/CIFAR10%20Image%20Classification%20using%20Keras.ipynb)
+
+
+
+[Fractional_MAXPOOL 代码](https://github.com/supercrazysam/Fractional_MaxPooling)
+[](https://github.com/supercrazysam/Fractional_MaxPooling/blob/master/Fractional_MAXPOOL.py)
+图像分类目前最好结果是 Facebook AI Research 的 Benjamin Graham 在他2015年Arxiv论文“Fractional Max-Pooling”中得到的，经过100次测试后在CIFAR-10上误差仅为3.47%。这篇论文提出了一种新的 fractional max-pooling 方法，降低了各种数据集上的过拟合。
+
+
+[2018，一文看尽AI发展真相](http://www.sohu.com/a/280801309_473283)
+
+
+[各种神经网络准确率的排名](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
+What is the class of this image ?  
+Discover the current state of the art in objects classification.  
+MNIST  
+CIFAR-10  
+CIFAR-100  
+STL-10  
+SVHN  
+ILSVRC2012 task 1  
+
+
 [深度卷积生成对抗网络](https://www.tensorflow.org/tutorials/generative/dcgan?hl=zh_cn)  
 
 
